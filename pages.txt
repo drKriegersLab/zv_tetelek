@@ -1,0 +1,10 @@
+				RRT		BOR
+oldalak: 			87		75
+szavak: 			12 657		14 737
+karakterek (szóköz nélkül): 	82 387		92 247
+karakterek (szóközzel) : 	93 726		105 739
+bekezdések száma: 		2 113		2 574
+sorok száma: 			2 615		2 891
+
+Billentyuzet számláló
+2017.06.19-én 0:43-kor: 198 443
